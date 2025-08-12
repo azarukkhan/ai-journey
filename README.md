@@ -15,6 +15,13 @@ All resources are **free**, **minimal math**, and focused on **practical busines
 
 ---
 
+# AI Journey
+
+This repository tracks my weekly AI learning projects as I transition from enterprise IT into AI consulting.  
+All resources are **free**, **minimal math**, and focused on **practical business value**.
+
+---
+
 ## Week 1 – AI Foundations & Business Impact
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ai-journey/blob/main/Week_1_AI_Foundations_Colab.ipynb)
@@ -30,7 +37,7 @@ All resources are **free**, **minimal math**, and focused on **practical busines
 
 ## Week 2 – Python Basics for AI
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ai-journey/blob/main/Week_2_Python_Basics_for_AI_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/azarukkhan/ai-journey/blob/main/Week_2_Python_Basics_for_AI_Colab.ipynb)
 
 **What’s inside:**
 - Variables, data types, lists, and dictionaries  
@@ -39,6 +46,48 @@ All resources are **free**, **minimal math**, and focused on **practical busines
 - Simple matplotlib chart  
 - Two KPI functions: `sla_breaches` and `throughput`  
 - Bonus: Tiny text cleanup  
+
+---
+
+## Week 3 – Data Handling & Visualization
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/azarukkhan/ai-journey/blob/main/Week_3_Data_Handling_and_Visualization_Colab.ipynb)
+
+**What’s inside:**
+- Load, clean, and inspect datasets with pandas  
+- Handle missing values  
+- Aggregate with `groupby`  
+- Visualize weekly, monthly, and channel trends  
+- Export cleaned dataset for sharing  
+
+---
+
+## Week 4 – Intro to Machine Learning
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/azarukkhan/ai-journey/blob/main/Week_4_Intro_to_Machine_Learning_Colab.ipynb)
+
+**What’s inside:**
+- Load built-in dataset (California Housing)  
+- Select features & target variable  
+- Train/test split  
+- Train Linear Regression model  
+- Evaluate with MAE and R² score  
+- Visualize predictions vs actual  
+- Bonus: Try a different model  
+
+---
+
+## Week 5 – Classification Models
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/azarukkhan/ai-journey/blob/main/Week_5_Classification_Models_Colab.ipynb)
+
+**What’s inside:**
+- Binary classification with Logistic Regression  
+- Try a tree-based model (Random Forest)  
+- Metrics: Accuracy, Precision, Recall, F1, ROC AUC  
+- Visuals: Confusion Matrix & ROC Curve  
+- Business interpretation of trade-offs  
+- Bonus: Threshold tuning
 
 ---
 
@@ -52,4 +101,8 @@ All resources are **free**, **minimal math**, and focused on **practical busines
 ## Progress
 - ✅ Week 1: AI Foundations & Business Impact  
 - ✅ Week 2: Python Basics for AI  
-- ⏳ Week 3: Data Handling & Visualization  
+- ✅ Week 3: Data Handling & Visualization  
+- ✅ Week 4: Intro to Machine Learning  
+- ✅ Week 5: Classification Models  
+- ⏳ Week 6: Business Framing for AI Projects  
+
