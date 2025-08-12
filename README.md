@@ -30,3 +30,10 @@ All resources are **free**, **minimal math**, and focused on **practical busines
 - ✅ Week 1: AI Foundations & Business Impact  
 - ⏳ Week 2: Python Basics  
 - 📅 Week 3: Data Handling & Visualization  
+
+
+
+## Week 2 – Python Basics for AI
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/azarukkhan/ai-journey/blob/main/Week_2_Python_Basics_for_AI_Colab.ipynb)
+
