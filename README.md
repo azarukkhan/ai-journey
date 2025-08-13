@@ -1,19 +1,7 @@
 # ai-journey
 my weekly learning projects from foundations to consulting ready
 
-# AI Journey
 
-This repository tracks my weekly AI learning projects as I transition from enterprise IT into AI consulting.  
-All resources are **free**, **minimal math**, and focused on **practical business value**.
-
----
-
-# AI Journey
-
-This repository tracks my weekly AI learning projects as I transition from enterprise IT into AI consulting.  
-All resources are **free**, **minimal math**, and focused on **practical business value**.
-
----
 
 # AI Journey
 
