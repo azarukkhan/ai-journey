@@ -43,12 +43,16 @@ All resources are **free**, **minimal math**, and focused on **practical busines
 
 **What’s inside:**
 - Load, clean, and inspect datasets with pandas  
-- Handle missing values  
-- Aggregate with `groupby`  
-- Visualize weekly, monthly, and channel trends  
-- Export cleaned dataset for sharing  
-
+- Filter, search, sort, and combine conditions  
+- Visualize trends (per client, priority, status, over time)  
+- Export filtered views to CSV
 ---
+
+### Sample Visuals
+![Tickets per Client](reports/week3/tickets_per_client.png)
+![Tickets Over Time](reports/week3/tickets_over_time.png)
+![Top 3 Clients — Tickets Over Time](reports/week3/top3_clients_over_time.png)
+
 
 ## Week 4 – Intro to Machine Learning
 
@@ -92,5 +96,4 @@ All resources are **free**, **minimal math**, and focused on **practical busines
 - ✅ Week 3: Data Handling & Visualization  
 - ✅ Week 4: Intro to Machine Learning  
 - ✅ Week 5: Classification Models  
-- ⏳ Week 6: Business Framing for AI Projects  
 
