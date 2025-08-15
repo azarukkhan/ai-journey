@@ -65,7 +65,10 @@ All resources are **free**, **minimal math**, and focused on **practical busines
 - Train Linear Regression model  
 - Evaluate with MAE and R² score  
 - Visualize predictions vs actual  
-- Bonus: Try a different model  
+- Bonus: Try a different model 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ai-journey/blob/main/Week_4_Plus_Mini_Project_Business_Regression.ipynb)
+
 
 ---
 
