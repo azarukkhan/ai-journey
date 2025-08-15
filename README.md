@@ -67,7 +67,20 @@ All resources are **free**, **minimal math**, and focused on **practical busines
 - Visualize predictions vs actual  
 - Bonus: Try a different model 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ai-journey/blob/main/Week_4_Plus_Mini_Project_Business_Regression.ipynb)
+
+## Week 4+ – Mini‑Project: Business Regression
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/azarukkhan/ai-journey/blob/main/Week_4_Plus_Mini_Project_Business_Regression.ipynb)
+
+**What’s inside:**
+- Generate a realistic **sales** or **support** dataset (or upload your own)
+- Explore & clean data
+- Train/test split
+- Baseline: **Linear Regression**
+- Compare with **Random Forest**
+- Evaluate with **MAE** and **R²**
+- **Feature importance** for stakeholder explanations
+- Export predictions + **5‑bullet business summary**
 
 
 ---
@@ -92,11 +105,12 @@ All resources are **free**, **minimal math**, and focused on **practical busines
 3. Save a copy to your Google Drive to keep your changes.
 
 ---
-
 ## Progress
 - ✅ Week 1: AI Foundations & Business Impact  
 - ✅ Week 2: Python Basics for AI  
 - ✅ Week 3: Data Handling & Visualization  
 - ✅ Week 4: Intro to Machine Learning  
 - ✅ Week 5: Classification Models  
+- ✅ Week 4+: Mini‑Project (Business Regression)
+ 
 
