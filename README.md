@@ -99,6 +99,15 @@ All resources are **free**, **minimal math**, and focused on **practical busines
 
 ---
 
+## Week 11 – PYTHON REVIEW 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/azarukkhan/ai-journey/blob/main/Week_11_Dictionaries_SOLVED.ipynb)
+
+**What’s inside:**
+- Example python used   
+- Excercises and soltions  
+
+
 ## How to Use
 1. Click the **Open in Colab** button for the week you want to work on.  
 2. Run each cell in order (Shift + Enter).  
