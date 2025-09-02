@@ -1,0 +1,26 @@
+[
+  {
+    "q": "What services do you offer?",
+    "a": "We provide data analytics, AI prototypes, and automation consulting."
+  },
+  {
+    "q": "How do we start a project?",
+    "a": "We begin with a discovery call to define the problem, scope, data, and success metrics."
+  },
+  {
+    "q": "What data do you need?",
+    "a": "Typically a sample dataset, schema, and access details. We\u2019ll sign an NDA if needed."
+  },
+  {
+    "q": "How long does a pilot take?",
+    "a": "Most pilots take 2\u20134 weeks depending on data quality and scope."
+  },
+  {
+    "q": "How do you price projects?",
+    "a": "Fixed-price for well-scoped pilots; retainer or T&M for ongoing work."
+  },
+  {
+    "q": "Do you handle production deployment?",
+    "a": "Yes. We containerize, set up CI/CD, monitoring, and handover docs."
+  }
+]
