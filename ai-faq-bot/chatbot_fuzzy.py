@@ -17,6 +17,8 @@ def normalize(s: str) -> str:
     # lowercase + basic whitespace cleanup; you could also strip punctuation if you like
     return " ".join(s.lower().strip().split())
 
+
+
 def best_match(user_text: str, candidates: list[str]) -> tuple[str, float]:
     """Return (best_candidate, similarity) using difflib's SequenceMatcher ratio."""
     best_q = ""
